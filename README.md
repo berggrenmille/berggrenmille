@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 At the helm—leading development on a cross-platform app that bridges users with Web3 technologies.<br><br>📚 Always leveling up—from the bleeding edge of AI and Next.js to the depths of .NET architecture. Building smarter systems, writing cleaner code, and never standing still.<br><br>⚡ Beyond the Code: Gamer, side project addict, and regular at C++ conventions—always chasing that next “aha” moment.</p>
+<p align="left"> I'm currently leading development on a cross-platform application that connects users with Web3 technologies.<br><br> With a strong foundation in .NET and a passion for modern C++ development, I’m continuously exploring advancements in AI, Next.js, and software architecture. My focus is on building scalable systems, writing maintainable code, and delivering impactful solutions.<br><br> Outside of work, I stay active in the development community, work on side projects, and enjoy exploring the ever-evolving landscape of technology. </p>
 
 ###
 
